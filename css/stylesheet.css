@@ -1,0 +1,214 @@
+/* Fond entete */
+
+
+.jumbotronGradient{
+/*position: absolute;
+left: 0%;
+right: 0%;*/
+/*top: 106.97%;
+bottom: -94244.86%;*/
+
+background: linear-gradient(53.38deg, #9FFFEB 1%, #9FFFEB 1.01%, #72B8A9 89.92%);
+}
+.titre1 {
+font-family: Montserrat;
+font-style: normal;
+font-weight: 800;
+font-size: 80px;
+line-height: 80px;
+text-align: center; 
+}
+
+.titre2 {
+ font-family: Montserrat;
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 80px;
+/* identical to box height, or 138% */
+text-align: center;
+letter-spacing: 0.2px;   
+}
+
+.container2 {
+    height: 200px;
+    position: relative;
+  }
+  
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 0px;
+
+position: absolute;
+width: 1441px;
+height: 4611.8px;
+left: 0px;
+top: 111px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+/*BANNER*/
+display: flex;
+flex-direction: column;
+padding: 0px;
+
+position: static;
+width: 1441px;
+height: 739.42px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+margin: 0px 0px;
+
+/*PRESENTATION*/
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 160px 0px;
+
+position: static;
+width: 1441px;
+height: 397px;
+left: 0px;
+top: 739.42px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 2;
+margin: 0px 0px;
+
+/* A propos */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 150px 82px;
+
+position: static;
+width: 1440px;
+height: 705px;
+left: 0.5px;
+top: 1136.42px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 3;
+align-self: center;
+margin: 0px 0px;
+
+/* Mon approche */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 150px 82px;
+
+position: static;
+width: 1440px;
+height: 730.38px;
+left: 0.5px;
+top: 1841.42px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 4;
+align-self: center;
+margin: 0px 0px;
+
+/* Formation */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 150px 82px;
+
+position: static;
+width: 1440px;
+height: 705px;
+left: 0.5px;
+top: 2571.8px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 5;
+align-self: center;
+margin: 0px 0px;
+
+/* Accomplissement */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: column;
+padding: 150px 82px;
+
+position: static;
+width: 1440px;
+height: 1202px;
+left: 0.5px;
+top: 3276.8px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 6;
+align-self: center;
+margin: 0px 0px;
+
+/* Fond footer */
+
+
+position: static;
+width: 1441px;
+height: 133px;
+left: 0px;
+top: 4478.8px;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 7;
+align-self: center;
+margin: 0px 0px;
